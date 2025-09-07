@@ -1,0 +1,5 @@
+{
+  "name": "Prompt Weaver",
+  "description": "Upload an image to conjure a creative prompt for Google's Imagen 4.0 that captures its style and essence.",
+  "requestFramePermissions": []
+}
